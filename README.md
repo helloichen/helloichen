@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm iChen
+  I'm iChen.
 
-- Eamil: helloichen@163.com
+- Email: helloichen@163.com
 
